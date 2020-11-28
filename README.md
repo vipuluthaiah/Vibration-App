@@ -13,11 +13,9 @@ Star⭐ the repo if you like what you see😉.
 
 | 1 | 2|
 |------|-------|
-|<img src="ss/1%20(2).jpg" width="400">||
+|<img src="ss/1%20(2).jpg" width="400">|<img src="ss/1%20(1).jpg" width="400">|
 
-| 3 | 4|
-|------|-------|
-|<img src="ss/1%20(1).jpg" width="400">||
+
 
 
 
@@ -44,3 +42,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
+
+## LICENCE
+[WTFPL](http://www.wtfpl.net/about/)
